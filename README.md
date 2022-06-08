@@ -37,9 +37,9 @@ Link to my [Portfolio Website](https://funny-belekoy-fe6e4b.netlify.app/).
 <h2 align="left">👷 Stats so far</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkakshay&show_icons=true&locale=en&layout=compact" alt="kirandasps" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkakshay&show_icons=true&locale=en" alt="lkakshay" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkakshay&show_icons=true&locale=en" alt="kirandasps" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkakshay&" alt="lkakshay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkakshay&" alt="kirandasps" /></p>
 
 <br/>
 <br/>

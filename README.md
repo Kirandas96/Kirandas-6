@@ -14,6 +14,12 @@ Visit my [Portfolio Website](https://funny-belekoy-fe6e4b.netlify.app/)</a> for 
 
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/> 
 
 
 ## 🚀 Languages and Tools:
@@ -22,8 +28,28 @@ Visit my [Portfolio Website](https://funny-belekoy-fe6e4b.netlify.app/)</a> for 
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-23272c?style=for-the-badge&logo=Cypress&logoColor=white)
 
-        
-        
+ <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>        
+
+
+<br/>
+<h2 align="left">👷 Stats so far</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kirandas96&show_icons=true&locale=en&layout=compact" alt="kirandasps" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kirandas96&show_icons=true&locale=en" alt="kirandasps" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirandas96&" alt="kirandasps" /></p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>     
 ## Where to find me
 <p>
 <a href="https://github.com/Kirandas96">
@@ -43,15 +69,4 @@ Visit my [Portfolio Website](https://funny-belekoy-fe6e4b.netlify.app/)</a> for 
 </a>
 </p>
 
-
-<br/>
-<h2 align="left">👷 Stats so far</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kirandas96&show_icons=true&locale=en&layout=compact" alt="kirandasps" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kirandas96&show_icons=true&locale=en" alt="kirandasps" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirandas96&" alt="kirandasps" /></p>
-
-<br/>
-<br/>
 

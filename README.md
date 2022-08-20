@@ -3,7 +3,7 @@
 <p> 
 As an aspiring software developer I wish to engage in this transition actively by contributing to the technical society in their newer and more advanced ventures.<p/>
 
-I am highly skilled in React.js, Node.js, Express.js, MongoDB, javascript, HTML and CSS. In my spare time I like playing football and travelling.
+I am skilled in React.js, Node.js, Express.js, MongoDB, javascript, HTML and CSS. In my spare time I like playing football and travelling.
 
 <br/>
 

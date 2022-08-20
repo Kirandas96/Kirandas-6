@@ -6,17 +6,15 @@ As an aspiring software developer I wish to engage in this transition actively b
 I am highly skilled in React.js, Node.js, Express.js, MongoDB, javascript, HTML and CSS. In my spare time I like playing football and travelling.
 
 <br/>
-
+    I’m currently learning Mern Stack
+    I’m currently working on a zoom clone
 🌍 I’m based in Calicut,Kerala
+ 
 
 Visit my [Portfolio Website](https://kirandasps.netlify.app/)</a> for more details.
 * ✉️  You can contact me at [parvathikiran10@gmail.com](mailto:parvathikiran10@gmail.com)
 
 
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/> 

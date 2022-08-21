@@ -8,10 +8,15 @@ I am skilled in React.js, Node.js, Express.js, MongoDB, javascript, HTML and CSS
 <br/>
 
 - 🔭 I’m currently working on **a zoom clone app**
+
 - 🌱 I’m currently learning **Mern Stack**
+
 - 💬 Ask me about **React, Express, Node**
-- 🌍 I’m based in Calicut,Kerala
+
+- 🌍 I’m based in Calicut,Kerala,India
+
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://kirandasps.netlify.app/)</a>
+
 - ✉️  You can contact me at [parvathikiran10@gmail.com](mailto:parvathikiran10@gmail.com)
 
 

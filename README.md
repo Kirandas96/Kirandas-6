@@ -7,11 +7,11 @@ I am skilled in React.js, Node.js, Express.js, MongoDB, javascript, HTML and CSS
 
 <br/>
 
-- 🔭 I’m currently working on **a zoom clone app**
+- 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Djano**
 
-- 💬 Ask me about **React, Express, Node**
+- 💬 Ask me about **React, JavaScript, Node**
 
 - 🌍 I’m based in Calicut,Kerala,India
 
